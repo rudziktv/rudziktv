@@ -1,4 +1,4 @@
-# Project Statuses
+# Project Status
 
 ## 🟢 - Developing
 ## 🔵 - Break from project
