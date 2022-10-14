@@ -1,5 +1,6 @@
-# 🟢 - Developing
-# ?
-# 🔵 - Break from project
-# 🟡 - Maintaince
-# 🔴 - Discounted
+# Project Statuses
+
+## 🟢 - Developing
+## 🔵 - Break from project
+## 🟡 - Maintaince
+## 🔴 - Discounted
