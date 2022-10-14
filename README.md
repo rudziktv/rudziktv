@@ -1,15 +1,15 @@
-### Hi there 👋
-
-<!--
-**rudziktv/rudziktv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-## Active project
+## Projects
+### 🟢 Active project || projects
 - [Mmino Windows](https://github.com/rudziktv/MminoWindows)
+
+### 🔵 Break from projects - I come back to them soon.
+- [Mmino Android](https://github.com/rudziktv/MusicAppMAUI)
+- Gym App _(Private)_
+- Car Game _(Private)_
 
 ## Somehing about me
 
-- 🔭 I’m currently working on []()
+- 🔭 I’m currently working on [Mmino Windows](https://github.com/rudziktv/MminoWindows)
 - 🌱 I’m currently learning: 
   - .NET library
   - Unity
