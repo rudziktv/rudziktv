@@ -11,10 +11,11 @@
 
 - 🔭 I’m currently working on [Mmino Windows](https://github.com/rudziktv/MminoWindows)
 - 🌱 I’m currently learning: 
+  - React.js / React Native
   - .NET library
   - Unity
   - C#
-  - WPF
+  - WPF / WinUI
   - MAUI
   - Python (for special 'uses' xD)
 - 👀 I’m currently intrested in programing and databases.
