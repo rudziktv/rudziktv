@@ -1,3 +1,5 @@
+#I've worked on something? XD no, I don't think so
+
 ## Projects
 ### 🟢 Active project || projects
 - [Mmino Windows](https://github.com/rudziktv/MminoWindows)
